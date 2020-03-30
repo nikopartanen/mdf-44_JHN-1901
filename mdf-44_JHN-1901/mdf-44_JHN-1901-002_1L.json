@@ -1,0 +1,53 @@
+[
+    {
+        "block_height": "285",
+        "block_id": "block_0",
+        "block_left": "760",
+        "block_top": "3778",
+        "block_width": "1471",
+        "file_path": "mdf-44_JHN-1901/mdf-44_JHN-1901-002_1L.xml",
+        "height": "91",
+        "left": "1203",
+        "max_height": "4504",
+        "max_width": "3001",
+        "text": "Гельсингфорсъ,",
+        "text_pred": "Тельсингфорсъ,",
+        "top": "3778",
+        "unit": "pixel",
+        "width": "600"
+    },
+    {
+        "block_height": "285",
+        "block_id": "block_0",
+        "block_left": "760",
+        "block_top": "3778",
+        "block_width": "1471",
+        "file_path": "mdf-44_JHN-1901/mdf-44_JHN-1901-002_1L.xml",
+        "height": "68",
+        "left": "760",
+        "max_height": "4504",
+        "max_width": "3001",
+        "text": "Типотра{!я Финскаго Литературнато Общества,",
+        "text_pred": "Типографія Финскаго Литературнаго Общества,",
+        "top": "3905",
+        "unit": "pixel",
+        "width": "1471"
+    },
+    {
+        "block_height": "285",
+        "block_id": "block_0",
+        "block_left": "760",
+        "block_top": "3778",
+        "block_width": "1471",
+        "file_path": "mdf-44_JHN-1901/mdf-44_JHN-1901-002_1L.xml",
+        "height": "51",
+        "left": "1391",
+        "max_height": "4504",
+        "max_width": "3001",
+        "text": "1901 г.",
+        "text_pred": "1о г.",
+        "top": "4012",
+        "unit": "pixel",
+        "width": "205"
+    }
+]
